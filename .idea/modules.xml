@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/basicDS/basicDS.iml" filepath="$PROJECT_DIR$/basicDS/basicDS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic/dynamic.iml" filepath="$PROJECT_DIR$/dynamic/dynamic.iml" />
       <module fileurl="file://$PROJECT_DIR$/extra/extra.iml" filepath="$PROJECT_DIR$/extra/extra.iml" />
       <module fileurl="file://$PROJECT_DIR$/halfsearch/halfsearch.iml" filepath="$PROJECT_DIR$/halfsearch/halfsearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/lingshen.iml" filepath="$PROJECT_DIR$/lingshen.iml" />
