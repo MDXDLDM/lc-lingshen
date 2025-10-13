@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/dynamic/dynamic.iml" filepath="$PROJECT_DIR$/dynamic/dynamic.iml" />
       <module fileurl="file://$PROJECT_DIR$/extra/extra.iml" filepath="$PROJECT_DIR$/extra/extra.iml" />
       <module fileurl="file://$PROJECT_DIR$/halfsearch/halfsearch.iml" filepath="$PROJECT_DIR$/halfsearch/halfsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hot100/hot100.iml" filepath="$PROJECT_DIR$/hot100/hot100.iml" />
       <module fileurl="file://$PROJECT_DIR$/lingshen.iml" filepath="$PROJECT_DIR$/lingshen.iml" />
       <module fileurl="file://$PROJECT_DIR$/mystack/mystack.iml" filepath="$PROJECT_DIR$/mystack/mystack.iml" />
       <module fileurl="file://$PROJECT_DIR$/slidingwindow/slidingwindow.iml" filepath="$PROJECT_DIR$/slidingwindow/slidingwindow.iml" />
