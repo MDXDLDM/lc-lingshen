@@ -7,15 +7,14 @@ public class No2 {
         int res=(height.length-1)*Math.min(height[firstindex],height[lastindex]);
         //int res=0;
         while(firstindex<lastindex){
+            int are=(lastindex-firstindex)*Math.min(height[firstindex],height[lastindex]);
             //int pre=Math.min(height[firstindex],height[lastindex]);
-            while(firstindex<lastindex&&height[firstindex]<height[lastindex]){
+            if(height[firstindex]<height[lastindex]){
                 firstindex++;
-                res=Math.max(res,(lastindex-firstindex)*Math.min(height[firstindex],height[lastindex]));
-            }
-            while(firstindex<lastindex&&height[firstindex]>=height[lastindex]){
+            }else{
                 lastindex--;
-                res=Math.max(res,(lastindex-firstindex)*Math.min(height[firstindex],height[lastindex]));
             }
+            res=Math.max(res,are);
         }
         return res;
     }
