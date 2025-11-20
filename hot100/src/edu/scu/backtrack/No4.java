@@ -1,4 +1,4 @@
-package edu.scu.backward;
+package edu.scu.backtrack;
 
 import java.util.ArrayList;
 import java.util.Arrays;
